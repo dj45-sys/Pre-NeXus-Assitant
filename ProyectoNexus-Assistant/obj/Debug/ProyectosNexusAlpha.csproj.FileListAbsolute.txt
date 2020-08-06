@@ -1,0 +1,30 @@
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\bin\Debug\ProyectosNexusAlpha.exe.config
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\bin\Debug\ProyectosNexusAlpha.exe
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\bin\Debug\ProyectosNexusAlpha.pdb
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.csprojAssemblyReference.cache
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\MainWindow.g.cs
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\App.g.cs
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha_MarkupCompile.cache
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha_MarkupCompile.lref
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\MainWindow.baml
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.g.resources
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.Properties.Resources.resources
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.csproj.GenerateResource.cache
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.csproj.CoreCompileInputs.cache
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.exe
+C:\Users\diyey\source\repos\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\bin\Debug\ProyectosNexusAlpha.exe.config
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\bin\Debug\ProyectosNexusAlpha.exe
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\bin\Debug\ProyectosNexusAlpha.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.csprojAssemblyReference.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\MainWindow.g.cs
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\App.g.cs
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha_MarkupCompile.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha_MarkupCompile.lref
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\MainWindow.baml
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.g.resources
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.Properties.Resources.resources
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.csproj.GenerateResource.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.csproj.CoreCompileInputs.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.exe
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\ProyectosNexusAlpha\ProyectosNexusAlpha\obj\Debug\ProyectosNexusAlpha.pdb
